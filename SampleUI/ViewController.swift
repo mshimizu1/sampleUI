@@ -14,6 +14,8 @@
 //ナビゲーション遷移について
 //https://blog.asial.co.jp/1669/
 
+//SousaTest
+
 import UIKit
 
 class ViewController: UIViewController {
